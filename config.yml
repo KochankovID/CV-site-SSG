@@ -1,0 +1,37 @@
+baseURL: 'http://example.org'
+languageCode: 'ru'
+title: 'Computer vision unn'
+paginate: 5
+theme: 'paper'
+
+menu:
+  main:
+    - name: Поиск
+      url: search
+      weight: 1
+    - name: Билеты
+      url: билеты
+      weight: 2
+
+enableEmoji: true
+
+params:
+  fuseOpts:
+    isCaseSensitive: false
+    keys: [ "title", "permalink", "summary", "content" ]
+
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowToc: true
+  TocOpen: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  sections: билеты
