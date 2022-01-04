@@ -1,4 +1,4 @@
-baseURL: 'http://example.org'
+baseURL: 'https://cocky-joliot-5025ee.netlify.app'
 languageCode: 'ru'
 title: 'Computer vision unn'
 paginate: 5
