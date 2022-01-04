@@ -1,11 +1,12 @@
 ---
-title: "Задачи компьютерного зрения"
-date: 2022-01-04T14:09:34+03:00
+title: Задачи компьютерного зрения
+date: 2022-01-04T14:38:59.451Z
+билеты:
+  - Билет 1
 draft: false
-билеты: ["Билет 1", ]
 cover:
-    image: https://analyticsindiamag.com/wp-content/uploads/2020/07/computer-vision-implement.jpg
-author: "Ilya Kochankov"
+  image: https://analyticsindiamag.com/wp-content/uploads/2020/07/computer-vision-implement.jpg
+author: Ilya Kochankov
 ---
 
 # Видеонаблюдение
