@@ -105,3 +105,6 @@ dist
 
 # WebStorm
 .idea
+
+# Hugo
+/public/
