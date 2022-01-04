@@ -27,6 +27,9 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
 
+  custom_css:
+    - "css/styles.css"
+
 outputs:
   home:
     - HTML
