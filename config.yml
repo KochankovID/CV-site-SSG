@@ -27,6 +27,8 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
 
+  hideMeta: true
+
   custom_css:
     - "css/styles.css"
 

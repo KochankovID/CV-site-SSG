@@ -1,5 +1,7 @@
 ---
 title: Задачи компьютерного зрения
+Summary: "Задачи компьютерного зрения включает методы для получения, обработки, анализа и понимание цифровых изображений,
+а также извлечение данных высокой размерности из реального мира для получения числовой или символьной информации."
 date: 2022-01-04T14:38:59.451Z
 билеты:
   - Билет 1
@@ -9,7 +11,7 @@ cover:
 author: Ilya Kochankov
 ---
 
-## Зрение и компьютерное зрение :nerd_face: 
+## Зрение и компьютерное зрение
 
 **Зрение** – это восприятие организмом внешнего мира, т. е. получение 
 информации о нём, посредством улавливания специальными органами 
@@ -19,15 +21,17 @@ author: Ilya Kochankov
 способны извлекать полезную информацию из изображений.
 
 
-## Где используют компьютерное зрение? :thinking: 
+## Где используют компьютерное зрение?
 
-### Видеонаблюдениe :video_camera:
+---
 
-> список в порядке возрастания сложности :arrow_up:
+### :video_camera: Видеонаблюдениe
+
+> список в порядке возрастания сложности :chart_with_upwards_trend:
 
 - Детектирование наличия движения
 
-{{< figure src="https://lh3.googleusercontent.com/proxy/2xfE9ePyHC8gghi8hBNDBU_9PlNfAOtC_Isxq3NmTj6oVchO6j54ljpDqUpjfVNjmyAv2r6pEKjSr0nIxFiGNNgAQHQkkscBkQrMNOMwsFn9MOkDxloTLjLasrWVWYwLzcNqDjBB4VRdNKcwITW9SkdvT5_xeu1B5qrO6NYTuM8TdrtQdEhgXVzez46D3SFBtkVQYCWSPDQCBN31FWuDsIHl781Rh-32NuyKCoQXoZKCkSGftlLXsa9QRCpmyU9IuxceWu-z0nXx4lwtsah_nkoMJ1lJcfzlS0_GXE_ojoiEocCGAC0AW79MvYKKOqZanY_k0qBFSchMmZK0LGFtKHDQpl7trks" 
+{{< figure src="/images/uploads/unnamed.png" 
 class="figure__image" >}}
 
 - Трэкинг объектов
@@ -65,13 +69,17 @@ class="figure__image" >}}
 {{< figure src="https://habrastorage.org/getpro/habr/post_images/94b/299/324/94b299324cd59f52c7c4c90f1ebb1b5c.png"
 class="figure__image" >}}
 
-### Биометрия :id:
+---
+
+### :id: Биометрия
 - Распознавание лиц, распознавание по походке
 
 {{< figure src="https://yes.mephi.ru/wp-content/uploads/2017/03/312.jpg"
 class="figure__image" >}}
 
-### Медицина :stethoscope:
+---
+
+### :stethoscope: Медицина
 - Распознавание на X-Ray и МРТ снимках
 
 {{< figure src="https://miro.medium.com/max/1200/1*SBbWDksqU7h40g_-IFhMVw.png"
@@ -92,7 +100,9 @@ class="figure__image" >}}
 {{< figure src="https://semeynaya.ru/images/cobalt_thumbs/image/413/63a024deedb053a5183ead7fc0b98371.jpg"
 class="figure__image" >}}
 
-### Преобразование изображения :selfie:
+---
+
+### :selfie: Преобразование изображения
 - Удаление шумов
 
 {{< figure src="https://nastroyvse.ru/wp-content/uploads/2020/12/udalenie-shuma-na-foto-v-photoshop.jpg"
@@ -128,12 +138,17 @@ class="figure__image" >}}
 {{< figure src="https://3.img-dpreview.com/files/p/E~TS590x0~articles/1934831860/prisma2.jpeg"
 class="figure__image" >}}
 
-### "Машинное зрение" на заводах для контроля качества :factory:
+---
+
+### :factory: Заводы
+- Контроль качества
 
 {{< figure src="https://controleng.ru/wp-content/uploads/48-11.jpg"
 class="figure__image" >}}
 
-### Сельское хозяйство :tractor:
+---
+
+### :tractor: Сельское хозяйство
 - Оценка состояния почвы
 
 {{< figure src="https://www.agroinvestor.ru/upload/iblock/f80/f8052f6ea581c4edea8292b17f3c0df5.jpg"
@@ -154,7 +169,9 @@ class="figure__image" >}}
 {{< figure src="https://habrastorage.org/files/c86/68b/d20/c8668bd204fc4127800d730142febc7c.jpg"
 class="figure__image" >}}
 
-### Помощь водителю :car:
+---
+
+### :car: Помощь водителю
 - Определение полосы движения
 
 {{< figure src="https://auto.today/media/res/6/5/4/3/0/65430.pvls00.1280.jpg"
@@ -180,7 +197,9 @@ class="figure__image" >}}
 {{< figure src="https://miro.medium.com/max/500/1*0x0VRjn59LpcgQGC-6OQKQ.png"
 class="figure__image" >}}
 
-### Человеко-машинный интерфейс
+---
+
+### :mechanical_arm: Человеко-машинный интерфейс
 - Зрение сквозь стены
 
 {{< figure src="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_27/2485501/18070-mit-mc-135.JPG"
