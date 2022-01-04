@@ -180,7 +180,6 @@ class="figure__image" >}}
 {{< figure src="https://miro.medium.com/max/500/1*0x0VRjn59LpcgQGC-6OQKQ.png"
 class="figure__image" >}}
 
-
 ### Человеко-машинный интерфейс
 - Зрение сквозь стены
 
