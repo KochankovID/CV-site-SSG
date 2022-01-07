@@ -1,9 +1,14 @@
 ---
 title: Цветовые пространства RGB, YUV, HSV.
+Summary: Цветовое пространство — модель представления цвета, основанная на
+  использовании цветовых координат. Цветовое пространство строится таким
+  образом, чтобы любой цвет был представлен точкой, имеющей определённые
+  координаты.
 date: 2022-01-07T11:58:37.941Z
 билеты: List [ "Билет 17" ]
 draft: true
-author: серго
+weight: 7
+author: Ilya Kochankov
 cover:
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27LUFERi_hjOsxu2NCaSysXuKxVqmgGy9Nw&usqp=CAU
 ---
@@ -32,18 +37,6 @@ class="figure__image" >}}
 
 {{< figure src="/images/uploads/yuv.jpg"
 class="figure__image" >}}
-
-<!--StartFragment-->
-
-получение RGB из YUV
-
-```
-R = Y + 1.13983 * (V - 128);
-G = Y - 0.39465 * (U - 128) - 0.58060 * (V - 128);
-B = Y + 2.03211 * (U - 128);
-```
-
-<!--EndFragment-->
 
 При сжатии видео часто применяют схему сжатия каналов 4:1:1
 
