@@ -23,10 +23,41 @@ author: "Ilya Kochankov"
 2. между любыми двумя точками, принадлежащими данной области, существует непрерывный путь, состоящий из точек, также
    принадлежащих данной области и являющихся при этом "соседями" в смысле заданного отношения соседства (8- или 4- связности).
 
-> :nerd_face: Каждая связанная компонента обладает этими свойствами
-
 В случае анализа бинарного изображения первое условие означает, что рассматриваются отдельные связные области, из 
 которых состоит "объект" или "фон".
+
+---
+
+## Свойства областей бинарного изображения
+
+- Геометрические (площадь, центр тяжести, периметр, экстремальные точки)
+
+{{< figure src="/images/uploads/square.png"
+class="figure__image" >}}
+
+{{< figure src="/images/uploads/center_of_gravity.png"
+class="figure__image" >}}
+
+{{< figure src="/images/uploads/perimeter.png"
+class="figure__image" >}}
+
+- Свойства формы (характеристики округлости и продолговатости)
+
+{{< figure src="/images/uploads/circle.png"
+class="figure__image" >}}
+
+{{< figure src="/images/uploads/harlick_circle.png"
+class="figure__image" >}}
+
+{{< figure src="/images/uploads/describing_rectangle.png"
+class="figure__image" >}}
+
+{{< figure src="/images/uploads/center_moment.png"
+class="figure__image" >}}
+
+- Свойства интенсивности (средняя, текстурные статистики)
+
+> Их можно получить накладывая бинарную область как маску на исходное изображение
 
 ---
 
