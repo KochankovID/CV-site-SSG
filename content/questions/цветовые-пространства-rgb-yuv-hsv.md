@@ -5,7 +5,7 @@ date: 2022-01-07T11:58:37.941Z
 draft: true
 author: серго
 cover:
-  image: https://images.deepai.org/glossary-terms/4103891acc534977b2872112ce21fef7/binarization.jpg
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27LUFERi_hjOsxu2NCaSysXuKxVqmgGy9Nw&usqp=CAU
 ---
 
 
@@ -29,4 +29,14 @@ cover:
 
 
 
-**Цветовое пространство YUV**
+**Цветовое пространство YUV** — [цветовая модель](https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C "Цветовая модель"), в которой цвет состоит из трёх компонентов — яркость (Y) и два цветоразностных компонента(отвечающие за цвет) (U и V).
+
+
+
+
+
+
+
+
+
+**Цветовое пространство HSV**
