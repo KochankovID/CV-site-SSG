@@ -11,4 +11,4 @@ author: Sergey Kryukov
 cover:
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hough-example-result-en.png/800px-Hough-example-result-en.png
 ---
-описание
+Преобразование Хафа — это метод обнаружения прямых и кривых линий на полутоновых или цветных изображениях. Метод позволяет указать параметры семейства кривых и обеспечивает поиск на изображении множества кривых заданного семейства.
