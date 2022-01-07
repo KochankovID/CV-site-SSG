@@ -9,7 +9,7 @@ date: 2022-01-07T13:54:05.315Z
 билеты: Билет 17
 draft: false
 weight: 7
-author: Sergey Krukov
+author: Sergey Kryukov
 cover:
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27LUFERi_hjOsxu2NCaSysXuKxVqmgGy9Nw&usqp=CAU
 ---
@@ -50,3 +50,21 @@ R = Y + 1.13983  *(V - 128);*
 При сжатии видео часто применяют схему сжатия каналов 4:1:1
 
 ## **Цветовое пространство HSV**
+
+HSV (от англ. ***Hue, Saturation, Value*** – тон, насыщенность, значение(интенсивность)) – цветовая модель, в которой координатами цвета являются следующие параметры:
+
+<!--StartFragment-->
+
+* **H**ue — цветовой [тон](https://dic.academic.ru/dic.nsf/ruwiki/317154), (например, [красный](https://dic.academic.ru/dic.nsf/ruwiki/42158), [зелёный](https://dic.academic.ru/dic.nsf/ruwiki/42162) или сине-голубой). Варьируется в пределах 0—360°, однако иногда приводится к диапазону 0—100 или 0—1.
+
+{{< figure src="/images/uploads/hsv.jpg"
+class="figure__image" >}}
+
+
+
+* **S**aturation — [насыщенность](https://dic.academic.ru/dic.nsf/ruwiki/304796). Варьируется в пределах 0—100 или  0—1                        Чем больше этот параметр, тем «чище» цвет, поэтому этот параметр иногда называют чистотой  цвета. А чем ближе этот параметр к [нулю](https://dic.academic.ru/dic.nsf/ruwiki/26277), тем ближе цвет к нейтральному [серому](https://dic.academic.ru/dic.nsf/ruwiki/51357).
+* **V**alue (значение цвета) или **B**rightness — яркость. Также задаётся в пределах 0—100 и 0—1.
+
+Модель была создана Элви Реем Смитом, одним из основателей [Pixar](https://dic.academic.ru/dic.nsf/ruwiki/72044), в [1978 году](https://dic.academic.ru/dic.nsf/ruwiki/1418). Она является  нелинейным преобразованием модели [RGB](https://dic.academic.ru/dic.nsf/ruwiki/13534).
+
+<!--EndFragment-->
