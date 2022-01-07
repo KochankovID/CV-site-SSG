@@ -24,3 +24,9 @@ cover:
 
 
 ![](/images/uploads/rgb.jpg)
+
+
+
+
+
+**Цветовое пространство YUV**
