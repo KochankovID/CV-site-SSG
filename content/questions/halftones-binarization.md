@@ -1,13 +1,13 @@
 ---
-title: "Бинаризация изображений"
-Summary:
+draft: true
+Summary: null
+title: Бинаризация изображений
 date: 2022-01-07T11:32:14+03:00
-билеты: ["Билет 3", ]
-draft: false
-weight: 6
+билеты: List [ "Билет 3" ]
+author: Ilya Kochankov
 cover:
   image: https://images.deepai.org/glossary-terms/4103891acc534977b2872112ce21fef7/binarization.jpg
-author: "Ilya Kochankov"
+weight: 6
 ---
 
 ## Что такое бинаризация?
