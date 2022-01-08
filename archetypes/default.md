@@ -1,5 +1,5 @@
 ---
-filename: "{{ replace .Name "-" " " | title }}"
+filename: "{{ .Name }}"
 title: "{{ replace .Name "-" " " | title }}"
 Summary:
 date: {{ .Date }}
