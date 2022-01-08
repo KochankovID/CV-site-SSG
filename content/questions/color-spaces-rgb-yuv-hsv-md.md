@@ -32,12 +32,9 @@ class="figure__image" >}}
 
 ### **Цветовое пространство YUV**
 
-**Цветовое пространство YUV** — [цветовая модель](https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C "Цветовая модель"), в которой цвет состоит из трёх компонентов — яркость (Y) и два цветоразностных компонента(отвечающие за цвет) (U и V).
+**Цветовое пространство YUV** — [](https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C "Цветовая модель")цветовая модель, доносящая информацию о цвете в виде компоненты яркости (Y) и два цветоразностных компонента(отвечающие за цвет) (U и V).
 
-{{< figure src="/images/uploads/yuv.jpg"
-class="figure__image" >}}
-
-<!--StartFragment-->
+{{< figure src="https://russianblogs.com/images/461/ffb45e600338703b703cd59308e19bdd.png >}}
 
 получение RGB из YUV
 
