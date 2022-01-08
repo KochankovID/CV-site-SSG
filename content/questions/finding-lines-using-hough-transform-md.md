@@ -5,7 +5,7 @@ Summary: Преобразование Хафа (Hough Transform) — это ме
   кругов и других простых форм на изображении.
 date: 2022-01-07T16:09:53.851Z
 билеты: Билет 9
-draft: true
+draft: false
 weight: 8
 author: Sergey Kryukov
 cover:
