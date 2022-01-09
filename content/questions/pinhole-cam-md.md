@@ -49,3 +49,9 @@ src="https://www.scratchapixel.com/images/upload/cameras/pinhole2.gif?" class="f
 {{< figure src="/images/uploads/matrix2.jpg" class="figure__image" >}}
 
 ### Формула вычисления координат
+
+{{< figure src="/images/uploads/task.jpg" class="figure__image" >}}
+
+
+
+{{< figure src="/images/uploads/created_task.jpg" class="figure__image" >}}
