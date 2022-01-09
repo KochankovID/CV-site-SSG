@@ -31,7 +31,7 @@
             };
         },
         toBlock: function (obj) {
-            return `{{< figure ${obj.src} class="figure__image" >}}`;
+            return `{{< figure src="${obj.src}" class="figure__image" >}}`;
         },
         toPreview: function (obj) {
             return `<figure class="figure__image"><img src=${obj.src}></figure>`
