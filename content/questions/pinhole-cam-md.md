@@ -30,6 +30,12 @@ src="https://www.scratchapixel.com/images/upload/cameras/pinhole2.gif?" class="f
 
 **Дисторсия -**  это погрешность изображения в оптической системе при которой коэфицент линейного увеличения изменяется по мере удаления отображаемых предметов от оптической оси. При этом нарушается геометрическое подобие между объектом и его изображением. Она обусловлена тем фактом, что фокусное расстояние в разных частях линзы отличается.
 
+{{< figure src="/images/uploads/camera_obskura1.jpg"
+class="figure__image" >}}
+{{< figure src="/images/uploads/camera_obcura2.jpg"
+class="figure__image" >}}
+{{< figure src="/images/uploads/camera_obscura3.jpg"
+class="figure__image" >}}
 
 
 
