@@ -8,7 +8,7 @@ Summary: Цветовое пространство — модель предст
 date: 2022-01-07T13:54:05.315Z
 билеты: Билет 17
 draft: false
-weight: 7
+weight: 13
 author: Sergey Kryukov
 cover:
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT27LUFERi_hjOsxu2NCaSysXuKxVqmgGy9Nw&usqp=CAU
