@@ -1,6 +1,6 @@
 ---
-filename: "{{ .Name }}"
-title: "{{ replace .Name "-" " " | title }}"
+filename: {{ .Name }}.md
+title: {{ replace .Name "-" " " | title }}
 Summary:
 date: {{ .Date }}
 билеты: ["Билет {{ add (len .Site.Sections) 1}}", ]
