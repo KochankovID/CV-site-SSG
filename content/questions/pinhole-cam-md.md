@@ -22,7 +22,7 @@ src="https://www.scratchapixel.com/images/upload/cameras/pinhole2.gif?" class="f
 
 ### Внутренние параметры камеры
 
-Существует несколько внутренних параметров камеры, они не обходимы для преобразований на плоскости изображения, т.е. в 2D. Сюда входят угол наклона пикселя,  координаты центра изображения \\[u\_{0}\] и \\[v\_{0}\],  \\[a\_{x}\] и \\[a\_{y}\] соответствуют фокусному расстоянию, измеренному в ширине и высоте пикселя, а ![{\\displaystyle \\gamma ={\\alpha \_{y}}\*\\tan \\varphi }](https://wikimedia.org/api/rest_v1/media/math/render/svg/5cf708f5fa63240ef3d449b886665bbb47b545f1), где ![\\varphi ](https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e) — угол наклона пикселя[](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D1%8B#cite_note-cgm1-2), коэффициенты дисторсии. Обычно записывают внутренние параметры  камеры в виде матрицы:
+Существует несколько внутренних параметров камеры, они не обходимы для преобразований на плоскости изображения, т.е. в 2D. Сюда входят угол наклона пикселя,  координаты центра изображения \\[u\_{0}] и \\[v\_{0}],  \\[a\_{x}] и \\[a\_{y}] соответствуют фокусному расстоянию, измеренному в ширине и высоте пикселя, а ![{\\displaystyle \\gamma ={\\alpha \_{y}}\*\\tan \\varphi }](https://wikimedia.org/api/rest_v1/media/math/render/svg/5cf708f5fa63240ef3d449b886665bbb47b545f1), где ![\\varphi ](https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e) — угол наклона пикселя[](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B1%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D1%8B#cite_note-cgm1-2), коэффициенты дисторсии. Обычно записывают внутренние параметры  камеры в виде матрицы:
 
 {{< figure src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ede0e45e52d9b044118335a4e08a0fc72001b14" class="figure__image" >}}
 
@@ -30,17 +30,10 @@ src="https://www.scratchapixel.com/images/upload/cameras/pinhole2.gif?" class="f
 
 **Дисторсия -**  это погрешность изображения в оптической системе при которой коэфицент линейного увеличения изменяется по мере удаления отображаемых предметов от оптической оси. При этом нарушается геометрическое подобие между объектом и его изображением. Она обусловлена тем фактом, что фокусное расстояние в разных частях линзы отличается.
 
-{{< figure src="/images/uploads/camera_obskura1.jpg"
-class="figure__image" >}}
-{{< figure src="/images/uploads/camera_obcura2.jpg"
-class="figure__image" >}}
-{{< figure src="/images/uploads/camera_obscura3.jpg"
-class="figure__image" >}}
+{{< figure src="/images/uploads/camera_obskura1.jpg" class="figure__image" >}}
 
+{{< figure src="/images/uploads/camera_obcura2.jpg" class="figure__image" >}}
 
+{{< figure src="/images/uploads/camera_obscura3.jpg" class="figure__image" >}}
 
 ### Матрица проекции камеры
-
-
-
-
