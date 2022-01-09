@@ -39,3 +39,5 @@ src="https://www.scratchapixel.com/images/upload/cameras/pinhole2.gif?" class="f
 {{< figure src="/images/uploads/camera_obscura3.jpg" class="figure__image" >}}
 
 ### Матрица проекции камеры
+
+Матрица pinhole camera используется для обозначения проекционного отображения от мировых координат до координат пикселей(двумерных точек изображения).
