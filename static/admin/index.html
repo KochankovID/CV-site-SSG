@@ -14,7 +14,7 @@
         // Internal id of the component
         id: "page-image",
         // Visible label
-        label: "Image",
+        label: "Correct-Image",
         // Fields the user need to fill out when adding an instance of the component
         fields: [
             {
@@ -34,7 +34,7 @@
             return `{{< figure ${obj.src} class="figure__image" >}}`;
         },
         toPreview: function (obj) {
-            return '<figure class="figure__image"><img src=${obj.src}></figure>'
+            return `<figure class="figure__image"><img src=${obj.src}></figure>`
         },
     })
 
