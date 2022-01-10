@@ -135,11 +135,11 @@ class="figure__image" >}}
 
 {{< figure src="https://ylianova.ru/800/600/http/makal47.ru/wp-content/uploads/2013/04/Distorsiya.jpg" class="figure__image" >}}
 
-### Матрица проекции камеры
+## Матрица проекции камеры
 
 **Матрица камеры (проекционная матрица)** представляет собой матрицу (3x4), которая описывает отображение камеры-обскуры из трехмерных точек мира в двухмерные точки изображения.
 
-#### Вывод матрицы
+### Вывод матрицы
 
 {{< figure src="/images/uploads/matrix1.jpg" class="figure__image" >}}
 
