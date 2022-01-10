@@ -10,4 +10,10 @@ author: Sergey
 cover:
   image: https://studepedia.org/img/baza2/2276002175914945.files/image268.gif
 ---
-fwgw
+## Частотный анализ изображений
+
+### Частотный анализ
+
+### Спектр и фаза
+
+### Полосноп-ропускающий фильтр
